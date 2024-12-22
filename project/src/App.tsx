@@ -53,10 +53,20 @@ function App() {
     fetchBundles();
   }, []);
 
-  const handleViewDetails = (bundleId: string) => {
+  const handleViewDetails = async (bundleId: string) => {
     const bundle = bundles.find((b) => b.id === bundleId);
     if (bundle) {
-      setSelectedBundle(bundle);
+      try {
+        const response = await axios.get(
+          `https://localhost:7237/api/Bundles/${bundleId}/items`
+        );
+        const items = response.data;
+
+        // Update selectedBundle with items
+        setSelectedBundle({ ...bundle, items });
+      } catch (err) {
+        console.error("Failed to fetch bundle items:", err);
+      }
     }
   };
 

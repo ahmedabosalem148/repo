@@ -1,0 +1,6 @@
+@SwApi_HostAddress = http://localhost:5098
+
+GET {{SwApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
