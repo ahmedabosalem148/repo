@@ -1853,11 +1853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\DataAcessLayer\\DataAcessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\DataAcessLayer\\DataAcessLayer.csproj",
       "projectName": "DataAcessLayer",
-      "projectPath": "C:\\Users\\ahmed\\source\\repos\\DataAcessLayer\\DataAcessLayer.csproj",
+      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\DataAcessLayer\\DataAcessLayer.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\source\\repos\\DataAcessLayer\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\DataAcessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KmQe7JllneU=",
+  "dgSpecHash": "2Df5SHik2h0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmed\\source\\repos\\SwApi\\SwApi.csproj",
+  "projectFilePath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\SwApi\\SwApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

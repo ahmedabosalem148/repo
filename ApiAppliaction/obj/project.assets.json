@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\ApiAppliaction\\ApiAppliaction.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\ApiAppliaction\\ApiAppliaction.csproj",
       "projectName": "ApiAppliaction",
-      "projectPath": "C:\\Users\\ahmed\\source\\repos\\ApiAppliaction\\ApiAppliaction.csproj",
+      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\ApiAppliaction\\ApiAppliaction.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\source\\repos\\ApiAppliaction\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\ApiAppliaction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

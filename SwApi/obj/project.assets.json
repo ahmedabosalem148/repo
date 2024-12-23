@@ -2310,11 +2310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\SwApi\\SwApi.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\SwApi\\SwApi.csproj",
       "projectName": "SwApi",
-      "projectPath": "C:\\Users\\ahmed\\source\\repos\\SwApi\\SwApi.csproj",
+      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\SwApi\\SwApi.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\source\\repos\\SwApi\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\SwApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2332,8 +2332,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ahmed\\source\\repos\\BusinesssLayer\\BusinesssLayer.csproj": {
-              "projectPath": "C:\\Users\\ahmed\\source\\repos\\BusinesssLayer\\BusinesssLayer.csproj"
+            "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\BusinesssLayer\\BusinesssLayer.csproj": {
+              "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\BusinesssLayer\\BusinesssLayer.csproj"
             }
           }
         }

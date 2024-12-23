@@ -1873,11 +1873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\source\\repos\\BusinesssLayer\\BusinesssLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\BusinesssLayer\\BusinesssLayer.csproj",
       "projectName": "BusinesssLayer",
-      "projectPath": "C:\\Users\\ahmed\\source\\repos\\BusinesssLayer\\BusinesssLayer.csproj",
+      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\BusinesssLayer\\BusinesssLayer.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\source\\repos\\BusinesssLayer\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\BusinesssLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1895,8 +1895,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ahmed\\source\\repos\\DataAcessLayer\\DataAcessLayer.csproj": {
-              "projectPath": "C:\\Users\\ahmed\\source\\repos\\DataAcessLayer\\DataAcessLayer.csproj"
+            "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\DataAcessLayer\\DataAcessLayer.csproj": {
+              "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\sw\\Sw\\repo\\DataAcessLayer\\DataAcessLayer.csproj"
             }
           }
         }
